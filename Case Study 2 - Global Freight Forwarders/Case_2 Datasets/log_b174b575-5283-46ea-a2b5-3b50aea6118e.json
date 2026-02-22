@@ -1,0 +1,8 @@
+{
+    "ShipmentID": "b174b575-5283-46ea-a2b5-3b50aea6118e",
+    "OriginCity": "Sydney",
+    "DestinationCity": "London",
+    "CarrierName": "Oceanic Freight",
+    "Status": "Customs Hold",
+    "LogTimestamp": "2025-10-15T13:17:12Z"
+}

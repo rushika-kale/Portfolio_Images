@@ -1,0 +1,8 @@
+{
+    "ShipmentID": "eb6ddaad-acdc-47c1-8c8f-8d82f0bb93f5",
+    "OriginCity": "New York",
+    "DestinationCity": "Hong Kong",
+    "CarrierName": "NextDay Air",
+    "Status": "Delayed",
+    "LogTimestamp": "2025-10-15T01:38:37Z"
+}

@@ -1,0 +1,8 @@
+{
+    "ShipmentID": "12da3127-0ea9-4f90-8b36-b394cadfa6d3",
+    "OriginCity": "Singapore",
+    "DestinationCity": "Chicago",
+    "CarrierName": "Oceanic Freight",
+    "Status": "Delivered",
+    "LogTimestamp": "2025-10-15T11:57:39Z"
+}
